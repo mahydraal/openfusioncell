@@ -7,6 +7,14 @@ https://www.etsy.com/listing/622565589/coin-ring-making-kit-complete-17-degree?g
 https://www.amazon.com/Stainless-Stabilizing-Folding-Degrees-Spacer/dp/B07RSL4ZGR/ref=sr_1_8?keywords=JMM+Tech+Inc&qid=1652286949&sr=8-8
 
 the cell is held together by #12 machine bolts and associated nuts.
-a 1/4-20 set will work as well but requrie some redrilling.
+a 1/4-20 set will work as well but require some redrilling. You would do well to use washers in on both sides in either case.
 
-the electrical terminals on either end use the same bolts as the drive bolts that clamp the cell together. 
+the electrical terminals on either end use the same bolts as the drive bolts that clamp the cell together.
+
+Highly recommended that you print this anvil cell at 100% infill to maximize functional strength of the components.
+The maximum practical working pressure of this assembly is ~25 GPa at best. I have only tested it to ~10 GPa.
+
+Changes on the horizon:
+change the holes on the frame to faciliate washers natively and provide more support.
+add stress relief fillets to the sharp eges near the bolt holes.
+find/make shorter anvils of the same culet diameter or smaller
